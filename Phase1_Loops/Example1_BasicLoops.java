@@ -15,7 +15,7 @@ public class Example1_BasicLoops {
     public static void main(String[] args) {
 
         // -----------------------------------------------------------------
-        // 1. FOR LOOP — Equivalent to PERFORM VARYING
+        // 1. FOR LOOP — Equivalent to PERFORM VARYING ( I understood this )
         // -----------------------------------------------------------------
         // COBOL:
         //   PERFORM VARYING WS-INDEX FROM 1 BY 1 UNTIL WS-INDEX > 5
